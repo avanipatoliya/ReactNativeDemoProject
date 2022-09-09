@@ -34,12 +34,11 @@ const styles = StyleSheet.create({
   },
   mainHeading: {
     fontSize: 25,
-    fontWeight: "700",
+    fontWeight: 'bold',
     paddingTop: 20,
     paddingBottom: 15,
     color: "#344055",
     textTransform: "capitalize",
-    fontFamily: "bold",
   },
   description: {
     fontSize: 20,
